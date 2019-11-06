@@ -1,0 +1,45 @@
+v1.0.7fivesubjects (2019-10-15)
+- Provider api changes applied
+- Programme list now lists all programmes from the provider
+- Programmes in the archive now have a thumbnail, title and a plot next to the date
+- The first part of the programme title in the archive list now has been highlighted in bold
+- Switched from using direct links to video mp4 to m3u8 HLS video to avoid curl timeouts when watching archived programmes
+- Added 1080p resolution setting for archived programmes where it is available. If the prefered resolution archived video is not available, it switches to next one with closest lower resolution
+- Schedule times are converted from the times in Moscow timezone to local ones
+- When opening the schedule, focus on the current live programme
+- Plot text is cleansed from html tags
+- Played videos now show title instead of stream's filename
+
+v1.0.7 (2018-01-21)
+- Provider api changes applied
+- Корректировки в связи с изменениеями api
+
+v1.0.6 (2017-10-28)
+- Provider api changes applied
+- Корректировки в связи с изменениеями api
+
+v1.0.5 (2017-07-22)
+- Provider api changes applied
+- Корректировки в связи с изменениеями api
+
+v1.0.4 (2017-02-10)
+- Provider api changes applied
+- Корректировки в связи с изменениеями api
+
+v1.0.3 (2017-01-23)
+- Added "TV Listing" with schedule for today
+- Добавлена "Телепрограмма" на текущие сутки
+
+v1.0.2 (2016-12-23)
+- Fixed video archive playback with selected quality (due to provider api changes)
+- Исправлено воспроизведение видео архива с заданным качеством (в связи с изменениями api провайдера)
+
+v1.0.1 (2016-12-08)
+- Faster video folders download
+- New options added for disabling fanart and thumbnails download
+- Увеличена скорость загрузка папок видео
+- Добавлены новые установки для отключения загрузки фанарта и эскизов
+
+v1.0.0 (2016-12-01)
+- Initial version
+- Первая проба
