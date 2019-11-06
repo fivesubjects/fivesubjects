@@ -27,4 +27,4 @@
         <screenshot>resources/media/screenshoot3.jpg</screenshot>
     </assets>
   </extension>
-</addon></addons>
+</addon><addon id="repository.fivesubjects" name="Fivesubjects Repository" provider-name="fivesubjects" version="0.0.1"><requires /><extension name="Fivesubjects Repository" point="xbmc.addon.repository"><info compressed="false">https://fivesubjects.github.io/kodirepo/addons.xml</info><checksum>https://fivesubjects.github.io/kodirepo/addons.xml.md5</checksum><datadir zip="true">https://fivesubjects.github.io/kodirepo/</datadir></extension><extension point="xbmc.addon.metadata"><platform>all</platform><summary lang="en">Fivesubjects GitHub repository</summary></extension></addon></addons>
